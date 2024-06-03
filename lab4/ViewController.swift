@@ -103,6 +103,7 @@ class ViewController: UIViewController {
             }
         }else{
             Display.text="Fill the missing info"
+                //sdfsdfdsfddsfdf
         }
         
     }
